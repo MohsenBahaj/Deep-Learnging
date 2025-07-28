@@ -122,12 +122,4 @@ You created a **fraud detection model** using an **unsupervised learning techniq
 * Identify anomalies (potential fraud)
 * Output details of those suspicious applicants
 
----
 
-If you’d like, I can also help:
-
-* Automatically detect fraud neurons (instead of picking manually)
-* Label the output clearly (like showing column names)
-* Build a GUI or web interface for this
-
-Let me know what you'd like to do next!
