@@ -1,6 +1,3 @@
-Sure! Let's break down your **Self-Organizing Map (SOM)** Python code and explain each part clearly. You're using SOM to detect **potential frauds** in a **credit card application dataset**. Here's a step-by-step explanation:
-
----
 
 ## 🔧 **1. Installing and Importing Required Libraries**
 
